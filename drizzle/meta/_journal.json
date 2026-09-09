@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1788967621924,
+      "tag": "0000_even_mastermind",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1788967734119,
+      "tag": "0001_yielding_mojo",
+      "breakpoints": true
+    }
+  ]
+}
